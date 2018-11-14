@@ -15,7 +15,7 @@ def configure_request(app):
     base_url = app.config['SOURCE_API_BASE_URL']
     article_url = app.config["ARTICLES_BASE_URL"]
     news_headlines_base_url = app.config['TOP_HEADLINES_BASE_URL']
-
+    # print(base_url.format("lol",api_key))
 
 def get_sources(category):
     '''
