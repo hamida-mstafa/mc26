@@ -1,9 +1,10 @@
 from flask import render_template, request, redirect,url_for
 from . import main
 from ..requests import get_sources, get_source, get_headlines
+
+
 @main.route('/')
 def index():
-
     sports = get_sources('sports')
     entertainment = get_sources('entertainment')
     technology = get_sources('technology')
