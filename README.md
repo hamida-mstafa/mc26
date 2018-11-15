@@ -1,8 +1,8 @@
 # News-Highlight
 
-##Built by Hamida Mstafa
+## Built by Hamida Mstafa
 
-##Description
+## Description
 This is a News Website App that is primarily concerned with making its users get information and updates about latest happenings around the globe(world).
 ## Features
 - The home page presents users with all available news sources.
