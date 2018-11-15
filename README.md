@@ -1,5 +1,7 @@
 # News-Highlight
-#Built by Hamida Mstafa
+
+##Built by Hamida Mstafa
+
 ##Description
 This is a News Website App that is primarily concerned with making its users get information and updates about latest happenings around the globe(world).
 ## Features
@@ -45,4 +47,4 @@ View the complete site [here](https://git.heroku.com/news1highlight.git)
  ## Licence
 
 This software is Licenced under MIT Licence
-Copyright 2018 [hamida-mstafa](https://opensource.org)
+Copyright (2018) [hamida-mstafa](https://opensource.org)
